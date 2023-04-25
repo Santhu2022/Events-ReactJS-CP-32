@@ -1,17 +1,27 @@
 .event-item {
   margin-bottom: 10px;
+  width: 45%;
+}
+.event-image-button {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  margin-bottom: 8px;
+  cursor: pointer;
+  outline: none;
 }
 .event-image {
-  width: 250px;
-  margin-bottom: 8px;
-  border: 1px solid transparent;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 2px solid transparent;
   border-radius: 12px;
-  cursor: pointer;
+  max-width: 460px;
 }
 .event-name {
   color: #ffffff;
   font-family: 'Roboto';
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 500;
   margin-bottom: 5px;
   margin-top: 0;
@@ -20,7 +30,7 @@
   color: #f8fafc;
   font-family: 'Roboto';
   margin: 0;
-  font-size: 15px;
+  font-size: 16px;
 }
 .active-image {
   border-color: #2dd4bf;

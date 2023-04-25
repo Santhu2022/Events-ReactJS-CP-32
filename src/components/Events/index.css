@@ -1,15 +1,13 @@
 .app-container {
-  max-width: 1140px;
-  margin: auto;
   min-height: 100vh;
-
   display: flex;
 }
 .event-container {
   background-color: #475569;
-  min-height: 100vh;
+  height: 100vh;
   padding: 20px;
   width: 60%;
+  overflow-y: auto;
 }
 .events-section-heading {
   color: #ffffff;
