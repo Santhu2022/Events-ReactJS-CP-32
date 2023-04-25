@@ -1,0 +1,47 @@
+.initial-status-text {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: auto;
+}
+.yet-to-register-image {
+  width: 100%;
+  max-width: 330px;
+}
+.yet-to-register-description {
+  color: #64748b;
+  font-family: 'Roboto';
+  line-height: 1.4;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 40px;
+}
+.register-button {
+  width: 90%;
+  height: 40px;
+  color: #ffffff;
+  background-color: #0967d2;
+  border: none;
+  border-radius: 10px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  margin-top: 20px;
+}
+.registration-closed-heading {
+  font-size: 24px;
+  font-family: 'Roboto';
+  color: #323f4b;
+}
+.registration-closed-description {
+  line-height: 1.5;
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: 500;
+  font-size: 16px;
+}
+.tick-image {
+  width: 150px;
+  margin-bottom: 20px;
+}
